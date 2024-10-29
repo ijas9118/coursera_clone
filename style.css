@@ -3,6 +3,17 @@
   margin: 0;
   box-sizing: border-box;
 }
+.topnavbar {
+      background-color: black;
+      height: 3rem;
+    }
+    .topnavbar .nav-link {
+      color: white;
+    }
+    .topnavbar .nav-link:hover {
+      color: black;
+      background-color: #ddd;
+    }
 
 .skill-gain {
   font-size: 0.7rem;
