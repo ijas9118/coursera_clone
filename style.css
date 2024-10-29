@@ -5,6 +5,7 @@
 }
 .topnavbar {
       background-color: black;
+      height: 3rem;
     }
     .topnavbar .nav-link {
       color: white;
