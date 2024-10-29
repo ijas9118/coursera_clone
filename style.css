@@ -3,6 +3,24 @@
   margin: 0;
   box-sizing: border-box;
 }
+.topnavbar {
+  background-color: black;
+  overflow: hidden;
+}
+
+.topnavbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnavbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
 
 .skill-gain {
   font-size: 0.7rem;
